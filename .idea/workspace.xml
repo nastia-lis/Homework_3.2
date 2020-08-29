@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e907a0d1-dc79-4629-bceb-51db31153097" name="Default Changelist" comment="" />
+    <list default="true" id="e907a0d1-dc79-4629-bceb-51db31153097" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/geekbrains/homework/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/geekbrains/homework/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled104.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Homework_3.2.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,65 +27,17 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1glaFYdiJTV9f23KTUyL23yyibc" />
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="company" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="geekbrains.homework.Main" />
-      <module name="untitled104" />
+      <module name="Homework_3.2" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -77,6 +45,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -90,5 +63,72 @@
       <updated>1598691529162</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1557" height="276" key="GridCell.Tab.0.bottom" timestamp="1598694742830">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1598694742830" />
+    <state width="1557" height="276" key="GridCell.Tab.0.center" timestamp="1598694742830">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1598694742830" />
+    <state width="1557" height="276" key="GridCell.Tab.0.left" timestamp="1598694742829">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1598694742829" />
+    <state width="1557" height="276" key="GridCell.Tab.0.right" timestamp="1598694742830">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1598694742830" />
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom" timestamp="1598694742831">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1598694742831" />
+    <state width="1557" height="276" key="GridCell.Tab.1.center" timestamp="1598694742831">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1598694742831" />
+    <state width="1557" height="276" key="GridCell.Tab.1.left" timestamp="1598694742831">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1598694742831" />
+    <state width="1557" height="276" key="GridCell.Tab.1.right" timestamp="1598694742831">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1598694742831" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/geekbrains/homework/Main.java</url>
+          <line>26</line>
+          <properties class="geekbrains.homework.Main" method="compareWord">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/geekbrains/homework/Main.java</url>
+          <line>9</line>
+          <properties class="geekbrains.homework.Main" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
